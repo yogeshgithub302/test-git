@@ -1,1 +1,0 @@
-utility function for version video 6
